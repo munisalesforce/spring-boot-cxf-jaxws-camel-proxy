@@ -1,0 +1,1 @@
+# spring-boot-cxf-jaxws-camel-proxy
