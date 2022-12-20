@@ -2,7 +2,7 @@ package com.kp.swasthik;
 
 import org.apache.camel.builder.RouteBuilder;
 import org.springframework.stereotype.Component;
-import java.io.*;
+
 
 @Component
 public class CxfProxyRoute extends RouteBuilder {
